@@ -1,3 +1,2 @@
-# wg.test
-Creating generic test to learn Github
-WG
+# Alien Invasion game
+
